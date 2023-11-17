@@ -1,0 +1,16 @@
+header{
+    border-bottom: 2px solid darkblue;
+    box-shadow: 1px 1px 3px rgba(128, 128, 128, 0.5);
+    height: 8rem;
+}
+
+.headerContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.social-image{
+    width: 50px;
+    height: 50px;
+}
